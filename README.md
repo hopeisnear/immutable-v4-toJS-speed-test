@@ -6,7 +6,7 @@ To start the benchmark simply:
 
 1. Clone the project
 1. npm install
-1. npm run
+1. npm start
  
 Then update the package json immutable dependency between immutable 4.0.0-rc.7 and 4.0.0-rc.8
  
