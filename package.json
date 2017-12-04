@@ -1,0 +1,25 @@
+{
+  "name": "immutable-v4-tojs-speed-test",
+  "version": "1.0.0",
+  "description": "#immutable-v4-toJS-speed-test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hopeisnear/immutable-v4-toJS-speed-test.git"
+  },
+  "keywords": [
+    "immutable"
+  ],
+  "author": "Rafal Szczepankiewicz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hopeisnear/immutable-v4-toJS-speed-test/issues"
+  },
+  "homepage": "https://github.com/hopeisnear/immutable-v4-toJS-speed-test#readme",
+  "devDependencies": {
+    "immutable": "4.0.0-rc.8"
+  }
+}
